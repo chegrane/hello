@@ -11,6 +11,6 @@ emmm very interstant, the html balis work very well hihihi
 
 <h2> i will try i likn :p </h2>
 
-<a href="www.google.com" title="test vers google" target="_blank">google search</a>
+<a href="http://www.google.com" title="test vers google" target="_blank">google search</a>
 
 emmm an externe link don't work
